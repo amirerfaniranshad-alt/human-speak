@@ -1,0 +1,8 @@
+interface:
+  display_name: "Human Speak فارسی"
+  short_description: "ویرایش متن فارسی با حفظ لحن نویسنده"
+  brand_color: "#111827"
+  default_prompt: "با $human-speak این متن فارسی را با حفظ لحن من ویرایش کن."
+
+policy:
+  allow_implicit_invocation: true

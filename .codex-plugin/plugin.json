@@ -1,0 +1,40 @@
+{
+  "name": "human-speak",
+  "version": "1.0.0",
+  "description": "ویرایش، بررسی و نگارش متن فارسی طبیعی با حفظ لحن و معنای نویسنده.",
+  "author": {
+    "name": "عرفان ایرانشاد",
+    "url": "https://erfaniranshad.ir"
+  },
+  "homepage": "https://github.com/amirerfaniranshad-alt/human-speak",
+  "repository": "https://github.com/amirerfaniranshad-alt/human-speak",
+  "license": "MIT",
+  "keywords": [
+    "persian",
+    "farsi",
+    "writing",
+    "editing",
+    "humanize",
+    "voice"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Human Speak فارسی",
+    "shortDescription": "ویرایش متن فارسی با حفظ لحن نویسنده",
+    "longDescription": "مهارتی برای ویرایش، بررسی و نگارش متن فارسی؛ کلیشه‌های نثر هوش مصنوعی را در بافت متن می‌شناسد و معنا و صدای نویسنده را نگه می‌دارد.",
+    "developerName": "عرفان ایرانشاد",
+    "category": "Productivity",
+    "capabilities": [
+      "Write"
+    ],
+    "websiteURL": "https://erfaniranshad.ir",
+    "privacyPolicyURL": "https://github.com/amirerfaniranshad-alt/human-speak/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/amirerfaniranshad-alt/human-speak/blob/main/TERMS.md",
+    "defaultPrompt": [
+      "این متن فارسی را طبیعی‌تر کن و لحن من را نگه دار.",
+      "این متن را از نظر کلیشه‌های نثر هوش مصنوعی بررسی کن؛ بازنویسی نکن.",
+      "از این نکته‌ها با لحن من یک متن فارسی روشن بنویس."
+    ],
+    "brandColor": "#111827"
+  }
+}

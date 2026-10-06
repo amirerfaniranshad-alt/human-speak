@@ -1,0 +1,36 @@
+{
+  "name": "human-speak",
+  "description": "مهارت ویرایش و نگارش متن فارسی با حفظ صدای نویسنده.",
+  "owner": {
+    "name": "عرفان ایرانشاد",
+    "url": "https://erfaniranshad.ir"
+  },
+  "plugins": [
+    {
+      "name": "human-speak",
+      "displayName": "Human Speak فارسی",
+      "source": "./",
+      "description": "نوشتار فارسی روشن و طبیعی با حفظ لحن نویسنده.",
+      "author": {
+        "name": "عرفان ایرانشاد",
+        "url": "https://erfaniranshad.ir"
+      },
+      "homepage": "https://github.com/amirerfaniranshad-alt/human-speak",
+      "repository": "https://github.com/amirerfaniranshad-alt/human-speak",
+      "license": "MIT",
+      "keywords": [
+        "persian",
+        "farsi",
+        "writing",
+        "editing",
+        "voice"
+      ],
+      "category": "Productivity",
+      "tags": [
+        "persian",
+        "writing",
+        "editing"
+      ]
+    }
+  ]
+}
